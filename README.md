@@ -54,18 +54,6 @@ app/src/main/java/com/example/barcodescanner/
 └── ScanResult.kt        # Modelo del resultado
 ```
 
-## Subir a GitHub
-
-```bash
-cd android-barcode-scanner
-git init
-git add .
-git commit -m "Primer commit: lector de códigos de barras"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/android-barcode-scanner.git
-git push -u origin main
-```
-
 ## Licencia
 
 MIT
