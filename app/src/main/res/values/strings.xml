@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lector de Códigos</string>
+    <string name="point_camera">Apunta la cámara a un código de barras o QR</string>
+    <string name="copy">Copiar</string>
+    <string name="share">Compartir</string>
+    <string name="open">Abrir</string>
+    <string name="torch_on">Linterna</string>
+    <string name="torch_off">Apagar</string>
+    <string name="gallery">Galería</string>
+    <string name="history">Historial</string>
+    <string name="history_empty">Aún no hay lecturas</string>
+    <string name="close">Cerrar</string>
+    <string name="clear">Borrar</string>
+    <string name="copied">Copiado al portapapeles</string>
+    <string name="cannot_open">No se puede abrir el enlace</string>
+    <string name="camera_error">No se pudo iniciar la cámara</string>
+    <string name="image_error">No se pudo leer la imagen</string>
+    <string name="no_code_found">No se encontró ningún código en la imagen</string>
+    <string name="permission_needed">Se necesita permiso de cámara para leer códigos de barras.</string>
+    <string name="grant_permission">Conceder permiso</string>
+</resources>
